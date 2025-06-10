@@ -3,6 +3,13 @@ body {
     font-family: Bai Jamjuree;
 }
 
+#container {
+    display: flex;
+}
+
+.card {
+   margin: 1rem 1rem;
+}
 footer {
     background-color: azure;
 color: rgb(22, 21, 21);
